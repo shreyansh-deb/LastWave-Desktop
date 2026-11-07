@@ -1,1 +1,1 @@
-const String kAddonClientSecret = 'dummy_key_to_bypass_build';
+const List<int> kAddonClientSecret = [0, 0, 0, 0];
